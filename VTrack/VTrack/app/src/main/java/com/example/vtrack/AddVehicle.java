@@ -15,6 +15,8 @@ public class AddVehicle extends AppCompatActivity {
     ActivityAddVehicleBinding binding;
     private final int GALLERY_REQ_CODE = 1000;
 
+    // Rahul
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
